@@ -25,6 +25,7 @@ public class mineralMain {
 
         //TODO this is a new TODO github
 
+
         Element sodium = new Element("Sodium", 10);
         Element natrium = new Element("Natrium", 11);
         Element silicium = new Element("Silicium", 11);
@@ -35,7 +36,9 @@ public class mineralMain {
         *put them into an arrayList
          */
 
-        ArrayList<Element> minerContains = new ArrayList<Element>();
+
+        ArrayList<Element> minerContains = new ArrayList<>();
+
 
         minerContains.add(sodium);
         minerContains.add(natrium);

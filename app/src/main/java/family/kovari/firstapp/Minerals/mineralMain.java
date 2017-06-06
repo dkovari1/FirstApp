@@ -21,6 +21,10 @@ public class mineralMain {
         /*
         *Creating some Elements
          */
+
+
+        //Here will be a comment
+
         Element sodium = new Element("Sodium", 10);
         Element natrium = new Element("Natrium", 11);
         Element silicium = new Element("Silicium", 11);

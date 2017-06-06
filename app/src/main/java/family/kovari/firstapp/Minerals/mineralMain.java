@@ -23,7 +23,7 @@ public class mineralMain {
          */
 
 
-        //Here will be a comment
+        //TODO this is a new TODO github
 
         Element sodium = new Element("Sodium", 10);
         Element natrium = new Element("Natrium", 11);
